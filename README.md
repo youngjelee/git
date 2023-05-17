@@ -1,3 +1,1 @@
-"# git" 
-stage추가완료 
-ㅎㅎㅎㅎㅎㅎ
+rebase merge 사용해보자

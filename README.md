@@ -1,1 +1,1 @@
-rebase merge 사용해보자
+rebase 사용해보자
